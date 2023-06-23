@@ -20,14 +20,18 @@ Using the library(np.linalg.inv()),calculate the inverse of the matrix.Assign a 
 ### Step 4: 
 Print the variable for the inverse.
 
+## Program Satement: 
+![image](https://github.com/SivaramakrishnanBaskar/INVERSE-OF-A-MATRIX/assets/119476322/85b4d36e-40d0-4362-b8c8-07087bfc4054)
+
 ## Program:
 ```
 Developed By: Sivaramakrishnan B
 Register No: 212222110044
 
-import numpy as np
-A=([[6,2,3],[3,1,1],[10,3,4]])
-print(np.linalg.inv(A))
+mport numpy as np
+A=np.array([[1,0,3],[-1,2,-2],[2,3,-1]])
+sol=(np.linalg.inv(A))
+print(sol)
 ```
 ## Output:
 ![214844325-ca4409d2-1e20-44b3-bf84-d40b2e68c26b](https://github.com/SivaramakrishnanBaskar/INVERSE-OF-A-MATRIX/assets/119476322/a5efc28d-9302-4e8e-84c7-08b9c9819134)
