@@ -34,8 +34,7 @@ sol=(np.linalg.inv(A))
 print(sol)
 ```
 ## Output:
-![214844325-ca4409d2-1e20-44b3-bf84-d40b2e68c26b](https://github.com/SivaramakrishnanBaskar/INVERSE-OF-A-MATRIX/assets/119476322/a5efc28d-9302-4e8e-84c7-08b9c9819134)
+![image](https://github.com/SivaramakrishnanBaskar/INVERSE-OF-A-MATRIX/assets/119476322/48898eff-ecdf-402f-a187-59b159bef1bc)
 
 ## Result:
-Thus the inverse of given matrix is successfully solved using python program
-
+Thus the inverse of given matrix is successfully solved using python program.
